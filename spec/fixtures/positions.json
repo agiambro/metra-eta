@@ -1,0 +1,724 @@
+[
+  {
+    "id": "8426",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "UP-W_UW508_V6_D",
+        "route_id": "UP-W",
+        "direction_id": null,
+        "start_time": "12:25:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8426",
+        "label": "508",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.884559631348,
+        "longitude": -87.640335083008,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T18:58:14.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8433",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "UP-NW_UNW715_V6_D",
+        "route_id": "UP-NW",
+        "direction_id": null,
+        "start_time": "15:30:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8433",
+        "label": "715",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 42.195045471191,
+        "longitude": -88.214080810547,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:48:59.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8417",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "UP-NW_UNW720_V2_D",
+        "route_id": "UP-NW",
+        "direction_id": null,
+        "start_time": "15:35:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8417",
+        "label": "720",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 42.046962738037,
+        "longitude": -87.900260925293,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:48:32.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8593",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "BNSF_BN1313_V2_D",
+        "route_id": "BNSF",
+        "direction_id": null,
+        "start_time": "15:40:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8593",
+        "label": "1313",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.778118133545,
+        "longitude": -88.208061218262,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:49:00.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8508",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "MD-W_MW2718_V2_D",
+        "route_id": "MD-W",
+        "direction_id": null,
+        "start_time": "15:55:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8508",
+        "label": "2718",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.930725097656,
+        "longitude": -87.835708618164,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 0,
+      "timestamp": {
+        "low": "2018-08-25T21:49:00.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8423",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "UP-N_UN820_V6_D",
+        "route_id": "UP-N",
+        "direction_id": null,
+        "start_time": "16:10:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8423",
+        "label": "820",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 42.138324737549,
+        "longitude": -87.760543823242,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:49:01.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8549",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "RI_RI319_V7_D",
+        "route_id": "RI",
+        "direction_id": null,
+        "start_time": "16:10:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8549",
+        "label": "319",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.661518096924,
+        "longitude": -87.675216674805,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:48:27.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8556",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "RI_RI122_V7_D",
+        "route_id": "RI",
+        "direction_id": null,
+        "start_time": "16:15:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8556",
+        "label": "122",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.608833312988,
+        "longitude": -87.733184814453,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:49:01.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "1305",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "ME_ME823_V6_D",
+        "route_id": "ME",
+        "direction_id": null,
+        "start_time": "16:10:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "1305",
+        "label": "823",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.687473297119,
+        "longitude": -87.611793518066,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:49:05.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8598",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "BNSF_BN1318_V2_D",
+        "route_id": "BNSF",
+        "direction_id": null,
+        "start_time": "16:20:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8598",
+        "label": "1318",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.795509338379,
+        "longitude": -88.007110595703,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 0,
+      "timestamp": {
+        "low": "2018-08-25T21:48:30.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8440",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "UP-NW_UNW717_V6_D",
+        "route_id": "UP-NW",
+        "direction_id": null,
+        "start_time": "16:30:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8440",
+        "label": "717",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.962169647217,
+        "longitude": -87.747016906738,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:48:34.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "1343",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "ME_ME8324_V6_D",
+        "route_id": "ME",
+        "direction_id": null,
+        "start_time": "16:39:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "1343",
+        "label": "8324",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.759376525879,
+        "longitude": -87.560417175293,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:48:46.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8506",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "MD-W_MW2715_V2_D",
+        "route_id": "MD-W",
+        "direction_id": null,
+        "start_time": "16:30:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8506",
+        "label": "2715",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.916584014893,
+        "longitude": -87.763252258301,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:49:00.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "1379",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "ME_ME824_V6_D",
+        "route_id": "ME",
+        "direction_id": null,
+        "start_time": "16:40:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "1379",
+        "label": "824",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.506546020508,
+        "longitude": -87.698020935059,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:47:48.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8410",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "UP-N_UN819_V6_D",
+        "route_id": "UP-N",
+        "direction_id": null,
+        "start_time": "16:35:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8410",
+        "label": "819",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.932807922363,
+        "longitude": -87.673446655273,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:48:31.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8541",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "MD-N_MN2615_V1_D",
+        "route_id": "MD-N",
+        "direction_id": null,
+        "start_time": "16:35:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8541",
+        "label": "2615",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.901634216309,
+        "longitude": -87.713279724121,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:49:04.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8608",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "MD-N_MN2616_V1_D",
+        "route_id": "MD-N",
+        "direction_id": null,
+        "start_time": "16:45:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8608",
+        "label": "2616",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 42.392105102539,
+        "longitude": -88.177124023438,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:48:35.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8443",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "UP-W_UW509_V6_D",
+        "route_id": "UP-W",
+        "direction_id": null,
+        "start_time": "16:40:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8443",
+        "label": "509",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.888301849365,
+        "longitude": -87.698204040527,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:48:26.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  },
+  {
+    "id": "8604",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": {
+      "trip": {
+        "trip_id": "BNSF_BN1315_V2_D",
+        "route_id": "BNSF",
+        "direction_id": null,
+        "start_time": "16:40:00",
+        "start_date": "20180825",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8604",
+        "label": "1315",
+        "license_plate": null
+      },
+      "position": {
+        "latitude": 41.859832763672,
+        "longitude": -87.675178527832,
+        "bearing": null,
+        "odometer": null,
+        "speed": null
+      },
+      "current_stop_sequence": null,
+      "stop_id": null,
+      "current_status": 2,
+      "timestamp": {
+        "low": "2018-08-25T21:47:54.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "congestion_level": null,
+      "occupancy_status": null
+    },
+    "alert": null
+  }
+]

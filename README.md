@@ -1,0 +1,3 @@
+- create Gemfile
+- add rspec gem
+- $ rspec --init

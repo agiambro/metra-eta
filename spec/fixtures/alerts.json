@@ -1,0 +1,655 @@
+[
+  {
+    "id": "9bfa4465-c3af-453f-b348-20e0e2ca0b85",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": null,
+    "alert": {
+      "active_period": [
+        {
+          "start": {
+            "low": "2018-08-23T16:56:38.000Z",
+            "high": 0,
+            "unsigned": true
+          },
+          "end": {
+            "low": "2018-08-31T08:00:00.000Z",
+            "high": 0,
+            "unsigned": true
+          }
+        }
+      ],
+      "informed_entity": [
+        {
+          "agency_id": null,
+          "route_id": null,
+          "route_type": null,
+          "trip": null,
+          "stop_id": "55-56-57TH"
+        }
+      ],
+      "cause": 1,
+      "effect": 8,
+      "url": {
+        "translation": [
+          {
+            "text": "http:\/\/metrarail.com\/metra\/en\/home.html?Twitter=1&Website=1&OnBoard=0&Email=1&Category=Elevator",
+            "language": "en-US"
+          }
+        ]
+      },
+      "header_text": {
+        "translation": [
+          {
+            "text": "Metra Alert  - The 57th St West Elevator Temporarily Out of Service ",
+            "language": "en-US"
+          }
+        ]
+      },
+      "description_text": {
+        "translation": [
+          {
+            "text": "The 57th St West elevator is temporarily out of service. Recommended alternative accessible locations are 51st\/53rd and 115th street stations. Metra will provide updated information once service has been restored. ",
+            "language": "en-US"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "47e61723-44ae-4c3c-8183-346e07e1d966",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": null,
+    "alert": {
+      "active_period": [
+        {
+          "start": {
+            "low": "2018-05-24T17:24:59.000Z",
+            "high": 0,
+            "unsigned": true
+          },
+          "end": {
+            "low": "2018-08-31T08:00:00.000Z",
+            "high": 0,
+            "unsigned": true
+          }
+        }
+      ],
+      "informed_entity": [
+        {
+          "agency_id": null,
+          "route_id": null,
+          "route_type": null,
+          "trip": null,
+          "stop_id": "OAKPARK"
+        }
+      ],
+      "cause": 1,
+      "effect": 8,
+      "url": {
+        "translation": [
+          {
+            "text": "http:\/\/metrarail.com\/metra\/en\/home.html?Twitter=0&Website=1&OnBoard=0&Email=1",
+            "language": "en-US"
+          }
+        ]
+      },
+      "header_text": {
+        "translation": [
+          {
+            "text": "Metra Alert  - Oak Park Clinton Avenue Stairwell Closure Will begin June 4 ",
+            "language": "en-US"
+          }
+        ]
+      },
+      "description_text": {
+        "translation": [
+          {
+            "text": "The Village of Oak Park is installing new sewer and water mains on North Boulevard between Forest Avenue and Kenilworth Avenue.  Beginning June 4 and continuing through August, the east viaduct stairwell entrance at Clinton Avenue will be closed and out of service.  Please use the entrance west of Marion Street to access the boarding platform.  ADA accessibility will not be affected. ",
+            "language": "en-US"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "e458f152-0c24-4b70-8b39-64cf1b962d54",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": null,
+    "alert": {
+      "active_period": [
+        {
+          "start": {
+            "low": "2017-09-20T17:06:42.000Z",
+            "high": 0,
+            "unsigned": true
+          },
+          "end": {
+            "low": "2018-09-30T08:00:00.000Z",
+            "high": 0,
+            "unsigned": true
+          }
+        }
+      ],
+      "informed_entity": [
+        {
+          "agency_id": null,
+          "route_id": null,
+          "route_type": null,
+          "trip": null,
+          "stop_id": "HEALY"
+        }
+      ],
+      "cause": 1,
+      "effect": 8,
+      "url": {
+        "translation": [
+          {
+            "text": "http:\/\/metrarail.com\/metra\/en\/home.html?Twitter=0&Website=1&OnBoard=0&Email=1",
+            "language": "en-US"
+          }
+        ]
+      },
+      "header_text": {
+        "translation": [
+          {
+            "text": "Metra Alert  - Healy Station Is Not ADA Accessible Due To Ongoing Construction (UPDATE #3) ",
+            "language": "en-US"
+          }
+        ]
+      },
+      "description_text": {
+        "translation": [
+          {
+            "text": "The Healy Metra Station rehabilitation project is ongoing.  Construction is scheduled to continue through July 2018.  The station will not be ADA accessible until further notice.  Commuters requiring ADA assistance can use Edgebrook or Western Avenue.  Beginning Monday, June 18, the inbound stairway and ramp (west access) will be closed.  During this phase of construction, the newly constructed outbound stairway (east access) will be in-service.  Please use the in-service portion of the platform and use caution as you enter and exit the station. ",
+            "language": "en-US"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "394d0008-f882-4396-88be-93ad0e77788a",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": null,
+    "alert": {
+      "active_period": [
+        {
+          "start": {
+            "low": "2018-08-25T01:20:19.000Z",
+            "high": 0,
+            "unsigned": true
+          },
+          "end": {
+            "low": "2018-08-27T18:00:00.000Z",
+            "high": 0,
+            "unsigned": true
+          }
+        }
+      ],
+      "informed_entity": [
+        {
+          "agency_id": null,
+          "route_id": null,
+          "route_type": null,
+          "trip": null,
+          "stop_id": "VANBUREN"
+        }
+      ],
+      "cause": 1,
+      "effect": 8,
+      "url": {
+        "translation": [
+          {
+            "text": "http:\/\/metrarail.com\/metra\/en\/home.html?Twitter=0&Website=1&OnBoard=0&Email=0&Category=Elevator",
+            "language": "en-US"
+          }
+        ]
+      },
+      "header_text": {
+        "translation": [
+          {
+            "text": "Metra Alert  - The VanBuren St elevator temporarily out of service ",
+            "language": "en-US"
+          }
+        ]
+      },
+      "description_text": {
+        "translation": [
+          {
+            "text": "The VanBuren St elevator is temporarily out of service. Recommended alternative accessible locations are Millennium and Museum Campus \/ 11th Street. Metra will provide  updated information once service has been restored. ",
+            "language": "en-US"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "20e03a73-6c6d-46e2-b65a-b383811fd2a9",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": null,
+    "alert": {
+      "active_period": [
+        {
+          "start": {
+            "low": "2018-08-14T11:24:49.000Z",
+            "high": 0,
+            "unsigned": true
+          },
+          "end": {
+            "low": "2018-09-15T08:00:00.000Z",
+            "high": 0,
+            "unsigned": true
+          }
+        }
+      ],
+      "informed_entity": [
+        {
+          "agency_id": null,
+          "route_id": null,
+          "route_type": null,
+          "trip": null,
+          "stop_id": "VERNON"
+        }
+      ],
+      "cause": 1,
+      "effect": 8,
+      "url": {
+        "translation": [
+          {
+            "text": "http:\/\/metrarail.com\/metra\/en\/home.html?Twitter=0&Website=1&OnBoard=0&Email=1",
+            "language": "en-US"
+          }
+        ]
+      },
+      "header_text": {
+        "translation": [
+          {
+            "text": "Metra Alert  - Vernon Hills Platform Rehabilitation Will Begin August 15 ",
+            "language": "en-US"
+          }
+        ]
+      },
+      "description_text": {
+        "translation": [
+          {
+            "text": "Platform rehabilitation will begin at the Vernon Hills station on August 15, 2018.  The existing platform pavers will be removed and replaced with stamped asphalt.  During phase #1, the west half of the inbound platform from the pedestrian crosswalk to the north end will be out of service for one week.  phase #2 will close inbound platform from the crosswalk to the south end for one week.  Once the inbound platform is complete, the work will be repeated on the outbound platform.  Please use caution near the work zones.  ",
+            "language": "en-US"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "d1e2e896-b4a6-4c71-887d-e89a49485298",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": null,
+    "alert": {
+      "active_period": [
+        {
+          "start": {
+            "low": "2018-08-25T21:31:44.000Z",
+            "high": 0,
+            "unsigned": true
+          },
+          "end": {
+            "low": "2018-08-25T21:46:00.000Z",
+            "high": 0,
+            "unsigned": true
+          }
+        }
+      ],
+      "informed_entity": [
+        {
+          "agency_id": null,
+          "route_id": null,
+          "route_type": null,
+          "trip": {
+            "trip_id": "UP-N_UN817_V6_D",
+            "route_id": "UP-N",
+            "direction_id": null,
+            "start_time": "15:35:00",
+            "start_date": "2018-08-25",
+            "schedule_relationship": 0
+          },
+          "stop_id": null
+        }
+      ],
+      "cause": 1,
+      "effect": 8,
+      "url": {
+        "translation": [
+          {
+            "text": "http:\/\/metrarail.com\/metra\/en\/home.html?Twitter=0&Email=0&Website=1&OnBoard=0",
+            "language": "en-US"
+          }
+        ]
+      },
+      "header_text": {
+        "translation": [
+          {
+            "text": "Metra Alert UP-N - Outbound Train #817 departing Chicago at 3:35 PM - 6 minute delay.",
+            "language": "en-US"
+          }
+        ]
+      },
+      "description_text": {
+        "translation": [
+          {
+            "text": "Train #817, scheduled to depart Chicago at 3:35 PM, is operating 6 minutes behind schedule due to accommodating boarding passengers.",
+            "language": "en-US"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "b7fb2251-d291-4867-86cc-f66e8bcba8cd",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": null,
+    "alert": {
+      "active_period": [
+        {
+          "start": {
+            "low": "2018-08-25T21:34:43.000Z",
+            "high": 0,
+            "unsigned": true
+          },
+          "end": {
+            "low": "2018-08-25T22:32:00.000Z",
+            "high": 0,
+            "unsigned": true
+          }
+        }
+      ],
+      "informed_entity": [
+        {
+          "agency_id": null,
+          "route_id": null,
+          "route_type": null,
+          "trip": {
+            "trip_id": "UP-NW_UNW715_V6_D",
+            "route_id": "UP-NW",
+            "direction_id": null,
+            "start_time": "15:30:00",
+            "start_date": "2018-08-25",
+            "schedule_relationship": 0
+          },
+          "stop_id": null
+        }
+      ],
+      "cause": 1,
+      "effect": 8,
+      "url": {
+        "translation": [
+          {
+            "text": "http:\/\/metrarail.com\/metra\/en\/home.html?Twitter=0&Email=0&Website=1&OnBoard=0",
+            "language": "en-US"
+          }
+        ]
+      },
+      "header_text": {
+        "translation": [
+          {
+            "text": "Metra Alert UP-NW - Outbound Train #715 departing Chicago at 3:30 PM - 12 minute delay.",
+            "language": "en-US"
+          }
+        ]
+      },
+      "description_text": {
+        "translation": [
+          {
+            "text": "Train #715, scheduled to depart Chicago at 3:30 PM, is operating 12 minutes behind schedule.",
+            "language": "en-US"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "18e14c4a-9af6-4aa8-9908-461df70782f7",
+    "is_deleted": false,
+    "trip_update": null,
+    "vehicle": null,
+    "alert": {
+      "active_period": [
+        {
+          "start": {
+            "low": "2018-08-25T21:34:45.000Z",
+            "high": 0,
+            "unsigned": true
+          },
+          "end": {
+            "low": "2018-08-25T22:30:00.000Z",
+            "high": 0,
+            "unsigned": true
+          }
+        }
+      ],
+      "informed_entity": [
+        {
+          "agency_id": null,
+          "route_id": null,
+          "route_type": null,
+          "trip": {
+            "trip_id": "UP-NW_UNW720_V2_D",
+            "route_id": "UP-NW",
+            "direction_id": null,
+            "start_time": "15:35:00",
+            "start_date": "2018-08-25",
+            "schedule_relationship": 0
+          },
+          "stop_id": null
+        }
+      ],
+      "cause": 1,
+      "effect": 8,
+      "url": {
+        "translation": [
+          {
+            "text": "http:\/\/metrarail.com\/metra\/en\/home.html?Twitter=0&Email=0&Website=1&OnBoard=0",
+            "language": "en-US"
+          }
+        ]
+      },
+      "header_text": {
+        "translation": [
+          {
+            "text": "Metra Alert UP-NW - Inbound Train #720 sched. to arrive Chicago at 5:23 PM - 7 minute delay. ",
+            "language": "en-US"
+          }
+        ]
+      },
+      "description_text": {
+        "translation": [
+          {
+            "text": "Train #720, scheduled to arrive Chicago at 5:23 PM, is operating 7 minutes behind schedule due to accommodating boarding passengers. ",
+            "language": "en-US"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cms_alert87",
+    "is_deleted": false,
+    "alert": {
+      "url": {
+        "translation": [
+          {
+            "text": "metrarail.com\/riding-metra\/service-updates?Source=0&Website=1&OnBoard=0&Email=0&Twitter=0"
+          }
+        ]
+      },
+      "informed_entity": [
+        {
+          "route_id": "HC"
+        }
+      ],
+      "active_period": [
+        {
+          "start": {
+            "low": "2018-07-23T08:00:00"
+          },
+          "end": {
+            "low": "2018-10-31T18:00:00"
+          }
+        }
+      ],
+      "header_text": {
+        "translation": [
+          {
+            "text": "Metra Alert HC - Lemont station depot and platform warming shelter repairs begin August 1, 2018",
+            "language": "en-US"
+          }
+        ]
+      },
+      "description_text": {
+        "translation": [
+          {
+            "text": "<p style=\"margin-bottom:.0001pt; margin:0in 0in 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\">On about August 1, 2018, work will begin on repairs and improvements to the Lemont Metra station depot and platform warming shelter. During construction, service will not be affected and the depot waiting area will remain open to commuters during regular hours of operation. Commuter parking also will not be affected during construction. However, repairs and improvements to the platform shelter will necessitate its closure during construction. A 3 month project completion is anticipated.<\/span><\/span><\/span><\/span><\/p><p style=\"margin-bottom:.0001pt; margin:0in 0in 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"text-autospace:none\"><span style=\"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\">We apologize for the inconvenience and thank you for your patience, as we work to improve the station facility.<\/span><\/span><\/span><\/span><\/p>",
+            "language": "en-US"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cms_alert88",
+    "is_deleted": false,
+    "alert": {
+      "url": {
+        "translation": [
+          {
+            "text": "metrarail.com\/riding-metra\/service-updates?Source=0&Website=1&OnBoard=0&Email=1&Twitter=0"
+          }
+        ]
+      },
+      "informed_entity": [
+        {
+          "route_id": "RI"
+        }
+      ],
+      "active_period": [
+        {
+          "start": {
+            "low": "2018-07-20T08:00:00"
+          },
+          "end": {
+            "low": "2018-08-31T17:00:00"
+          }
+        }
+      ],
+      "header_text": {
+        "translation": [
+          {
+            "text": "Metra Alert RI - Hickory Creek Station Platform Rehabilitation",
+            "language": "en-US"
+          }
+        ]
+      },
+      "description_text": {
+        "translation": [
+          {
+            "text": "<p style=\"margin-bottom:.0001pt; text-align:justify; margin:0in 0in 10pt\"><span style=\"font-size:11pt\"><span style=\"line-height:115%\"><span style=\"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\">Metra will begin work to replace the inbound platform on Monday, July 30, 2018. &nbsp;During phase one of the project, the east half of the inbound platform will be out of service for six weeks. At that time, the warming house will remain open; however, the track side doors will be closed and will not be accessible to ADA commuters. The two pedestrian crossings, ramps, stairs and the ADA parking east of the warming house will also be out of service. <\/span><\/span><\/span><span style=\"font-size:11pt\"><span style=\"line-height:115%\"><span style=\"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\">Please use the west pedestrian crosswalk and west ramp to access the boarding platforms. Also, the west ramp adjacent to the warming house will also be in service to facilitate access to the west ADA parking lot. <\/span><\/span><\/span><span style=\"font-size:11pt\"><span style=\"line-height:115%\"><span style=\"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\">Please allow additional time to access the platform and use caution near work zones and exercise caution when boarding trains. &nbsp;Metra apologizes for the inconvenience. <b>&nbsp;<\/b><\/span><\/span><\/span><\/p>",
+            "language": "en-US"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cms_alert92",
+    "is_deleted": false,
+    "alert": {
+      "url": {
+        "translation": [
+          {
+            "text": "metrarail.com\/riding-metra\/service-updates?Source=0&Website=1&OnBoard=0&Email=1&Twitter=0"
+          }
+        ]
+      },
+      "informed_entity": [
+        {
+          "route_id": "MD-N"
+        }
+      ],
+      "active_period": [
+        {
+          "start": {
+            "low": "2018-08-23T04:00:00"
+          },
+          "end": {
+            "low": "2018-08-26T01:00:00"
+          }
+        }
+      ],
+      "header_text": {
+        "translation": [
+          {
+            "text": "Metra Alert MD-N - Late Saturday August 25th - Train #2627 ONLY will be bussed between Grayslake and Fox Lake",
+            "language": "en-US"
+          }
+        ]
+      },
+      "description_text": {
+        "translation": [
+          {
+            "text": "<p>Metra will bus passengers on the last outbound Milwaukee District North Line train #2627 Saturday night, Aug. 25 between Grayslake and Fox Lake due to a rail crossing renewal project at state Route 120 (Belvidere Road). Click<a href=\"https:\/\/metrarail.com\/about-metra\/newsroom\/road-crossing-work-affect-milwaukee-north-line-0\"> here<\/a> for more information.<\/p>",
+            "language": "en-US"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "cms_alert93",
+    "is_deleted": false,
+    "alert": {
+      "url": {
+        "translation": [
+          {
+            "text": "metrarail.com\/riding-metra\/service-updates?Source=0&Website=1&OnBoard=0&Email=1&Twitter=0"
+          }
+        ]
+      },
+      "informed_entity": [
+        {
+          "route_id": "BNSF"
+        }
+      ],
+      "active_period": [
+        {
+          "start": {
+            "low": "2018-08-23T12:30:00"
+          },
+          "end": {
+            "low": "2018-09-24T12:00:00"
+          }
+        }
+      ],
+      "header_text": {
+        "translation": [
+          {
+            "text": "Metra Alert BNSF - Riverside Platform Rehabilitation Project is scheduled to begin on Tuesday, September 4th, 2018",
+            "language": "en-US"
+          }
+        ]
+      },
+      "description_text": {
+        "translation": [
+          {
+            "text": "<p class=\"MsoBodyText\" style=\"margin-right:-27.35pt; margin-left:-27.35pt; margin:0in 0in 0.0001pt; text-align:justify\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Bookman Old Style&quot;,&quot;serif&quot;\"><span style=\"font-size:14.0pt\"><span style=\"font-family:&quot;Franklin Gothic Book&quot;,&quot;sans-serif&quot;\">Platform Rehabilitation Project is scheduled to begin<b> <\/b>on Tuesday, September 4<sup>th<\/sup>, 2018<b><u>.<\/u><\/b> The scheduled work will include removal and replacement of existing staircases with ADA compliant features, new hand railings and exposed aggregate sidewalk, drainage repairs, and some removal and reinstallation of existing pavers.<\/span><\/span><\/span><\/span><\/p><p><span style=\"font-size:14.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:&quot;Franklin Gothic Book&quot;,&quot;sans-serif&quot;\">Contractor is scheduled to start work first on the North platform. As a result<b>, <\/b>NO PARKING will be permitted along North side platform parking lot until all scheduled work is completed. We are anticipating that work on the North platform will be completed by September 24<sup>th<\/sup>, 2018. Once all work is completed on the North Platform, contractor will move operations and begin work on the South platform\/Train Station area. Access to the Train Station and pay parking station will be available throughout the project, but please allow yourself additional time as certain staircases or the sidewalk between the Train Station and Commuter Parking Lot will be closed during construction. Please note that at least one staircase will be open for pedestrian traffic during construction operations. <\/span><\/span><\/span><\/p>",
+            "language": "en-US"
+          }
+        ]
+      }
+    }
+  }
+]
