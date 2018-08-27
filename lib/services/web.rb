@@ -2,7 +2,6 @@ require 'net/http'
 
 module Services
   class Web
-
     def initialize url, basic_auth={user_name: nil, password: nil}, timeout=60
       @url = url
       @uri = URI.parse url

@@ -1,2 +1,2 @@
 require_relative 'libs'
-fetcher = EtaFetcher.fetch 'positions'
+fetcher = Services::MetraApi.fetch 'positions'
