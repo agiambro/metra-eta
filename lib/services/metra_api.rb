@@ -4,9 +4,9 @@ module Services
     SECRET_KEY   = ENV["METRA_SECRET_KEY"]
     ETA_BASE_URL = 'https://gtfsapi.metrarail.com'.freeze
     APIS = {
-      alerts: 'gtfs/alerts',
-      positions: 'gtfs/positions',
-      trip_updates: 'gtfs/tripUpdates'
+      alerts: '/gtfs/alerts',
+      positions: '/gtfs/positions',
+      trip_updates: '/gtfs/tripUpdates'
     }.freeze
 
     def self.fetch api_name
