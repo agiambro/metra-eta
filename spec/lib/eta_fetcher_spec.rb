@@ -1,9 +1,8 @@
 RSpec.describe EtaFetcher do
   describe '.fetch' do
-    context 'trip_updates' do
-      it 'does something' do
-        data = json_fixture_data_for 'positions.json'
-        expect(data.first["id"]).to eq '8426'
+    context 'invalid api name' do
+      it 'raises error' do
+        expect{ EtaFetcher.fetch('na') }.to raise_error(/invalid api/i)
       end
     end
   end

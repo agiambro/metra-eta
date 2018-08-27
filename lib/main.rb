@@ -1,2 +1,2 @@
 require_relative 'libs'
-fetcher = EtaFetcher.fetch
+fetcher = EtaFetcher.fetch 'positions'
