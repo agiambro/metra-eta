@@ -3,8 +3,8 @@ class EtaFetcher
   ALERTS       = '/gtfs/alerts'.freeze
   POSITIONS    = '/gtfs/positions'.freeze
   TRIP_UPDATES = '/gtfs/tripUpdates'.freeze
-  ACCESS_KEY   = 'change to env var'
-  SECRET_KEY   = 'change to env var'
+  ACCESS_KEY   = ENV["METRA_ACCESS_KEY"]
+  SECRET_KEY   = ENV["METRA_SECRET_KEY"]
 
   def self.fetch
     positions_url = ETA_BASE_URL + POSITIONS
@@ -12,4 +12,3 @@ class EtaFetcher
     response = svc.get
   end
 end
-
