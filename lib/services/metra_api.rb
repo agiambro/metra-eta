@@ -1,7 +1,9 @@
+require 'json'
+
 module Services
   class MetraApi
-    ACCESS_KEY   = ENV["METRA_ACCESS_KEY"]
-    SECRET_KEY   = ENV["METRA_SECRET_KEY"]
+    ACCESS_KEY   = ENV['METRA_ACCESS_KEY']
+    SECRET_KEY   = ENV['METRA_SECRET_KEY']
     ETA_BASE_URL = 'https://gtfsapi.metrarail.com'.freeze
     APIS = {
       alerts: '/gtfs/alerts',
@@ -14,7 +16,7 @@ module Services
       raise 'Invalid API name' if APIS[api_sym].nil?
       api_url = ETA_BASE_URL + APIS[api_sym]
       svc = Services::Web.new api_url, {user_name: ACCESS_KEY, password: SECRET_KEY}
-      svc.get
+      JSON.parse svc.get
     end
   end
 end

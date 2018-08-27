@@ -1,2 +1,3 @@
 require_relative 'libs'
-fetcher = Services::MetraApi.fetch 'positions'
+minutes_delayed = Eta.minutes_delayed_to 'elmhurst'
+puts "Train delayed #{minutes_delayed} minutes"
