@@ -16,7 +16,7 @@ module Services
       end
 
       context 'valid api name' do
-        it 'returns payload' do
+        it 'calls out to api' do
           svc = double(Services::Web)
           expect(Services::Web).to receive(:new) { svc }
           expect(svc).to receive(:get)
