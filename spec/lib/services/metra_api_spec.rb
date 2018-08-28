@@ -19,7 +19,7 @@ module Services
         it 'calls out to api' do
           svc = double(Services::Web)
           expect(Services::Web).to receive(:new) { svc }
-          expect(svc).to receive(:get)
+          expect(svc).to receive(:get) { '{}' }
           MetraApi.fetch('positions')
         end
       end
