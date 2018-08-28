@@ -1,11 +1,11 @@
 class Eta
-  UNION_PACIFIC_WEST_LINE_ID = 'UP-W_UW509_V6_D'
+  TRIP_ID = 'UP-W_UW36_V1_A'
 
   def self.minutes_delayed_to station_name
     station_name = station_name.upcase
     raw_updates = Services::MetraApi.fetch 'trip_updates'
 
-    el = raw_updates.find{|p| p['id'] == UNION_PACIFIC_WEST_LINE_ID}
+    el = raw_updates.find{|p| p['id'] == TRIP_ID}
     return 0 if el.nil?
 
     updates = el.dig 'trip_update', 'stop_time_update'

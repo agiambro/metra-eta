@@ -1,6 +1,7 @@
 RSpec.describe Eta do
   describe '.minutes_delayed_to' do
     it 'gets number of minutes' do
+      Eta::TRIP_ID = 'UP-W_UW509_V6_D'
       payload = json_fixture_data_for 'trip_updates.json'
 
       expect(Services::MetraApi).to receive(:fetch).with('trip_updates') { payload }
