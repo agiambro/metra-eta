@@ -433,5 +433,440 @@
     },
     "vehicle": null,
     "alert": null
+  },
+  {
+    "id": "UP-W_UW509_V7_D",
+    "is_deleted": false,
+    "trip_update": {
+      "trip": {
+        "trip_id": "UP-W_UW509_V6_D",
+        "route_id": "UP-W",
+        "direction_id": null,
+        "start_time": "16:40:00",
+        "start_date": "20:18:08",
+        "schedule_relationship": 0
+      },
+      "vehicle": {
+        "id": "8443",
+        "label": "509",
+        "license_plate": null
+      },
+      "stop_time_update": [
+        {
+          "stop_sequence": 6,
+          "stop_id": "OAKPARK",
+          "arrival": {
+            "delay": 360,
+            "time": {
+              "low": "2018-08-25T21:59:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T21:59:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "RIVRFOREST",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:01:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:01:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "MAYWOOD",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:04:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:04:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "BELLWOOD",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:08:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:08:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "BERKELEY",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:11:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:11:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "ELMHURST",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:15:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:15:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "VILLAPARK",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:19:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:19:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "LOMBARD",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:23:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:23:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "GLENELLYN",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:28:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:28:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "COLLEGEAVE",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:31:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:31:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "WHEATON",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:34:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:34:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "WINFIELD",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:38:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:38:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 23,
+          "stop_id": "WCHICAGO",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:42:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:42:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 25,
+          "stop_id": "GENEVA",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:50:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:50:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 27,
+          "stop_id": "LAFOX",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:59:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T22:59:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        },
+        {
+          "stop_sequence": 28,
+          "stop_id": "ELBURN",
+          "arrival": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T23:09:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "departure": {
+            "delay": 180,
+            "time": {
+              "low": "2018-08-25T23:09:00.000Z",
+              "high": 0,
+              "unsigned": false
+            },
+            "uncertainty": 0
+          },
+          "schedule_relationship": 0
+        }
+      ],
+      "timestamp": {
+        "low": "2018-08-25T21:50:45.000Z",
+        "high": 0,
+        "unsigned": true
+      },
+      "delay": null,
+      "position": {
+        "id": "8443",
+        "is_deleted": false,
+        "trip_update": null,
+        "vehicle": {
+          "trip": {
+            "trip_id": "UP-W_UW509_V6_D",
+            "route_id": "UP-W",
+            "direction_id": null,
+            "start_time": "16:40:00",
+            "start_date": "20180825",
+            "schedule_relationship": 0
+          },
+          "vehicle": {
+            "id": "8443",
+            "label": "509",
+            "license_plate": null
+          },
+          "position": {
+            "latitude": 41.888103485107,
+            "longitude": -87.710876464844,
+            "bearing": null,
+            "odometer": null,
+            "speed": null
+          },
+          "current_stop_sequence": null,
+          "stop_id": null,
+          "current_status": 2,
+          "timestamp": {
+            "low": "2018-08-25T21:49:29.000Z",
+            "high": 0,
+            "unsigned": true
+          },
+          "congestion_level": null,
+          "occupancy_status": null
+        },
+        "alert": null
+      }
+    },
+    "vehicle": null,
+    "alert": null
   }
 ]
