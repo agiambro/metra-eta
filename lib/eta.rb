@@ -5,10 +5,10 @@ class Eta
     station_name = station_name.upcase
     raw_updates = Services::MetraApi.fetch 'trip_updates'
 
-    els = raw_updates.select{|p| p['id'] =~ /#{TRIP_PREFIX_ID}/}
-    return 0 if els.empty?
+    elements = raw_updates.select{|p| p['id'] =~ /#{TRIP_PREFIX_ID}/}
+    return 0 if elements.empty?
 
-    get_max_delay_for els, station_name
+    get_max_delay_for elements, station_name
   end
 
 
